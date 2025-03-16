@@ -1,0 +1,11 @@
+{
+	"sqltools.connections": [
+		{
+			"previewLimit": 50,
+			"server": "localhost",
+			"driver": "PostgreSQL",
+			"name": "Payment Dev",
+			"connectString": "postgresql://postgres:D2DsubzDhJIq7VQ6VkM68YdquzZjumHhy6aJ2OS8oXSDNdEvdy6ffnLy40rKCZvN@66.142.222.140:5432/dev?schema=payment_service"
+		}
+	]
+}

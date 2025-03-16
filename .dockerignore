@@ -1,0 +1,11 @@
+node_modules/
+npm-debug.log
+.env
+.git/
+.gitignore
+.vscode/
+dist/
+build/
+*.md
+.prettierrc
+suggestions.txt

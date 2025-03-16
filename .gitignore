@@ -1,0 +1,6 @@
+node_modules
+.env
+stripe.exe
+
+combined_word_frequencies.txt
+fasttext_words_embeddings.txt
