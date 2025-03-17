@@ -7,7 +7,7 @@
 	"scripts": {
 		"start": "node build/index.js",
 		"stripe:webhook": "stripe listen --forward-to=http://localhost:8080/api/v1/webhook",
-		"dev": "nodemon src/index.ts",
+		"dev": "nodemon --delay 500ms src/index.ts",
 		"build": "tsc",
 		"watch": "tsc -w"
 	},
